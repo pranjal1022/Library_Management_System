@@ -1,1 +1,4 @@
-I have made a basic library Management system using Python where a librarian can login in and enter the details of student who is issuing the book for a span of 15 days. I have added button to show all records present in the database. If a student delays in returning a book then a bill is generated in the Return Book sectionI have made a basic library Management system where a librarian can login in and enter the details of student who is issuing the book for a span of 15 days. I have added button to show all records present in the database. If a student delays in returning a book then a bill is generated in the Return Book section
+I have made a basic library Management system using Python.
+
+Softwares Used:
+Pycharm and sqlite3 for database
